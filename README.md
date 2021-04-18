@@ -1,3 +1,3 @@
-# PythonML
+# PythonML Basic
 
 pandas, numpy, scikit-learn
